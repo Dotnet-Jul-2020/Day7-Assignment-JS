@@ -1,0 +1,2 @@
+Find out question-
+1.while loop, do-while loop,switch cases in JS.
